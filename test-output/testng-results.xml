@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="205090" started-at="2018-08-14T05:41:52Z" finished-at="2018-08-14T05:45:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="205090" started-at="2018-08-14T05:41:52Z" finished-at="2018-08-14T05:45:17Z">
+      <class name="Scripts.TestInvalidLogin">
+        <test-method status="PASS" signature="lunchApplication()[pri:0, instance:Scripts.TestInvalidLogin@75881071]" name="lunchApplication" is-config="true" duration-ms="11708" started-at="2018-08-14T05:42:59Z" finished-at="2018-08-14T05:43:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchApplication -->
+        <test-method status="PASS" signature="inValidLogin()[pri:0, instance:Scripts.TestInvalidLogin@75881071]" name="inValidLogin" duration-ms="35980" started-at="2018-08-14T05:43:11Z" finished-at="2018-08-14T05:43:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inValidLogin -->
+        <test-method status="PASS" signature="closeApplication(org.testng.ITestResult)[pri:0, instance:Scripts.TestInvalidLogin@75881071]" name="closeApplication" is-config="true" duration-ms="2090" started-at="2018-08-14T05:43:47Z" finished-at="2018-08-14T05:43:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=inValidLogin status=SUCCESS method=TestInvalidLogin.inValidLogin()[pri:0, instance:Scripts.TestInvalidLogin@75881071] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="lunchApplication()[pri:0, instance:Scripts.TestInvalidLogin@75881071]" name="lunchApplication" is-config="true" duration-ms="10875" started-at="2018-08-14T05:43:49Z" finished-at="2018-08-14T05:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchApplication -->
+        <test-method status="PASS" signature="inValidLogin()[pri:0, instance:Scripts.TestInvalidLogin@75881071]" name="inValidLogin" duration-ms="35090" started-at="2018-08-14T05:44:00Z" finished-at="2018-08-14T05:44:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inValidLogin -->
+        <test-method status="PASS" signature="closeApplication(org.testng.ITestResult)[pri:0, instance:Scripts.TestInvalidLogin@75881071]" name="closeApplication" is-config="true" duration-ms="2337" started-at="2018-08-14T05:44:35Z" finished-at="2018-08-14T05:44:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=inValidLogin status=SUCCESS method=TestInvalidLogin.inValidLogin()[pri:0, instance:Scripts.TestInvalidLogin@75881071] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- Scripts.TestInvalidLogin -->
+      <class name="Scripts.ValidActiTimeVersion">
+        <test-method status="PASS" signature="lunchApplication()[pri:0, instance:Scripts.ValidActiTimeVersion@2a70a3d8]" name="lunchApplication" is-config="true" duration-ms="11788" started-at="2018-08-14T05:44:37Z" finished-at="2018-08-14T05:44:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchApplication -->
+        <test-method status="PASS" signature="ValidActiTimeVersion()[pri:0, instance:Scripts.ValidActiTimeVersion@2a70a3d8]" name="ValidActiTimeVersion" duration-ms="6775" started-at="2018-08-14T05:44:49Z" finished-at="2018-08-14T05:44:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidActiTimeVersion -->
+        <test-method status="PASS" signature="closeApplication(org.testng.ITestResult)[pri:0, instance:Scripts.ValidActiTimeVersion@2a70a3d8]" name="closeApplication" is-config="true" duration-ms="2323" started-at="2018-08-14T05:44:56Z" finished-at="2018-08-14T05:44:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidActiTimeVersion status=SUCCESS method=ValidActiTimeVersion.ValidActiTimeVersion()[pri:0, instance:Scripts.ValidActiTimeVersion@2a70a3d8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="lunchApplication()[pri:0, instance:Scripts.ValidActiTimeVersion@2a70a3d8]" name="lunchApplication" is-config="true" duration-ms="9744" started-at="2018-08-14T05:44:58Z" finished-at="2018-08-14T05:45:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchApplication -->
+        <test-method status="PASS" signature="ValidActiTimeVersion()[pri:0, instance:Scripts.ValidActiTimeVersion@2a70a3d8]" name="ValidActiTimeVersion" duration-ms="7050" started-at="2018-08-14T05:45:08Z" finished-at="2018-08-14T05:45:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidActiTimeVersion -->
+        <test-method status="PASS" signature="closeApplication(org.testng.ITestResult)[pri:0, instance:Scripts.ValidActiTimeVersion@2a70a3d8]" name="closeApplication" is-config="true" duration-ms="2341" started-at="2018-08-14T05:45:15Z" finished-at="2018-08-14T05:45:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidActiTimeVersion status=SUCCESS method=ValidActiTimeVersion.ValidActiTimeVersion()[pri:0, instance:Scripts.ValidActiTimeVersion@2a70a3d8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- Scripts.ValidActiTimeVersion -->
+      <class name="Scripts.TestValidLogin">
+        <test-method status="PASS" signature="lunchApplication()[pri:0, instance:Scripts.TestValidLogin@1fc2b765]" name="lunchApplication" is-config="true" duration-ms="30855" started-at="2018-08-14T05:41:52Z" finished-at="2018-08-14T05:42:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchApplication -->
+        <test-method status="PASS" signature="validLogin()[pri:0, instance:Scripts.TestValidLogin@1fc2b765]" name="validLogin" duration-ms="13244" started-at="2018-08-14T05:42:23Z" finished-at="2018-08-14T05:42:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method status="PASS" signature="closeApplication(org.testng.ITestResult)[pri:0, instance:Scripts.TestValidLogin@1fc2b765]" name="closeApplication" is-config="true" duration-ms="2327" started-at="2018-08-14T05:42:36Z" finished-at="2018-08-14T05:42:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validLogin status=SUCCESS method=TestValidLogin.validLogin()[pri:0, instance:Scripts.TestValidLogin@1fc2b765] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="lunchApplication()[pri:0, instance:Scripts.TestValidLogin@1fc2b765]" name="lunchApplication" is-config="true" duration-ms="11109" started-at="2018-08-14T05:42:39Z" finished-at="2018-08-14T05:42:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchApplication -->
+        <test-method status="PASS" signature="validLogin()[pri:0, instance:Scripts.TestValidLogin@1fc2b765]" name="validLogin" duration-ms="6971" started-at="2018-08-14T05:42:50Z" finished-at="2018-08-14T05:42:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method status="PASS" signature="closeApplication(org.testng.ITestResult)[pri:0, instance:Scripts.TestValidLogin@1fc2b765]" name="closeApplication" is-config="true" duration-ms="2361" started-at="2018-08-14T05:42:57Z" finished-at="2018-08-14T05:42:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validLogin status=SUCCESS method=TestValidLogin.validLogin()[pri:0, instance:Scripts.TestValidLogin@1fc2b765] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- Scripts.TestValidLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
