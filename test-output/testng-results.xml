@@ -1,40 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="159721" started-at="2018-08-14T17:02:37Z" finished-at="2018-08-14T17:05:17Z">
+  <suite name="Default suite" duration-ms="31340" started-at="2018-08-15T14:47:56Z" finished-at="2018-08-15T14:48:27Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="159721" started-at="2018-08-14T17:02:37Z" finished-at="2018-08-14T17:05:17Z">
+    <test name="Default test" duration-ms="31340" started-at="2018-08-15T14:47:56Z" finished-at="2018-08-15T14:48:27Z">
       <class name="Scripts.TestValidLogin">
-        <test-method status="PASS" signature="lunchApplication()[pri:0, instance:Scripts.TestValidLogin@43738a82]" name="lunchApplication" is-config="true" duration-ms="90884" started-at="2018-08-14T17:02:37Z" finished-at="2018-08-14T17:04:08Z">
+        <test-method status="PASS" signature="lunchApplication()[pri:0, instance:Scripts.TestValidLogin@43738a82]" name="lunchApplication" is-config="true" duration-ms="19103" started-at="2018-08-15T14:47:56Z" finished-at="2018-08-15T14:48:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lunchApplication -->
-        <test-method status="PASS" signature="validLogin()[pri:0, instance:Scripts.TestValidLogin@43738a82]" name="validLogin" duration-ms="31674" started-at="2018-08-14T17:04:08Z" finished-at="2018-08-14T17:04:40Z">
+        <test-method status="PASS" signature="validLogin()[pri:0, instance:Scripts.TestValidLogin@43738a82]" name="validLogin" duration-ms="9832" started-at="2018-08-15T14:48:15Z" finished-at="2018-08-15T14:48:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLogin -->
-        <test-method status="PASS" signature="closeApplication(org.testng.ITestResult)[pri:0, instance:Scripts.TestValidLogin@43738a82]" name="closeApplication" is-config="true" duration-ms="759" started-at="2018-08-14T17:04:40Z" finished-at="2018-08-14T17:04:41Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=validLogin status=SUCCESS method=TestValidLogin.validLogin()[pri:0, instance:Scripts.TestValidLogin@43738a82] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeApplication -->
-        <test-method status="PASS" signature="lunchApplication()[pri:0, instance:Scripts.TestValidLogin@43738a82]" name="lunchApplication" is-config="true" duration-ms="22758" started-at="2018-08-14T17:04:41Z" finished-at="2018-08-14T17:05:03Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- lunchApplication -->
-        <test-method status="PASS" signature="validLogin()[pri:0, instance:Scripts.TestValidLogin@43738a82]" name="validLogin" duration-ms="13008" started-at="2018-08-14T17:05:03Z" finished-at="2018-08-14T17:05:16Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validLogin -->
-        <test-method status="PASS" signature="closeApplication(org.testng.ITestResult)[pri:0, instance:Scripts.TestValidLogin@43738a82]" name="closeApplication" is-config="true" duration-ms="335" started-at="2018-08-14T17:05:16Z" finished-at="2018-08-14T17:05:17Z">
+        <test-method status="PASS" signature="closeApplication(org.testng.ITestResult)[pri:0, instance:Scripts.TestValidLogin@43738a82]" name="closeApplication" is-config="true" duration-ms="2340" started-at="2018-08-15T14:48:25Z" finished-at="2018-08-15T14:48:27Z">
           <params>
             <param index="0">
               <value>

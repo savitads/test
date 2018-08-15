@@ -2,3 +2,17 @@
 2018-08-14 22:34:20 [main] INFO  TestValidLogin:30 - Login button is clicked
 2018-08-14 22:35:03 [main] INFO  TestValidLogin:24 - Login page object is created successfully
 2018-08-14 22:35:04 [main] INFO  TestValidLogin:30 - Login button is clicked
+2018-08-15 20:06:01 [main] INFO  TestValidLogin:24 - Login page object is created successfully
+2018-08-15 20:06:07 [main] INFO  TestValidLogin:30 - Login button is clicked
+2018-08-15 20:06:36 [main] INFO  TestValidLogin:24 - Login page object is created successfully
+2018-08-15 20:06:37 [main] INFO  TestValidLogin:30 - Login button is clicked
+2018-08-15 20:11:00 [main] INFO  TestValidLogin:24 - Login page object is created successfully
+2018-08-15 20:11:03 [main] INFO  TestValidLogin:30 - Login button is clicked
+2018-08-15 20:11:26 [main] INFO  TestValidLogin:24 - Login page object is created successfully
+2018-08-15 20:11:27 [main] INFO  TestValidLogin:30 - Login button is clicked
+2018-08-15 20:16:56 [main] INFO  TestValidLogin:24 - Login page object is created successfully
+2018-08-15 20:16:58 [main] INFO  TestValidLogin:30 - Login button is clicked
+2018-08-15 20:18:16 [main] DEBUG TestValidLogin:22 - creating the object of Login Page
+2018-08-15 20:18:16 [main] INFO  TestValidLogin:24 - Login page object is created successfully
+2018-08-15 20:18:17 [main] DEBUG TestValidLogin:28 - Username and password entered
+2018-08-15 20:18:18 [main] INFO  TestValidLogin:30 - Login button is clicked
