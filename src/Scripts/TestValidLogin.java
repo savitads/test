@@ -15,7 +15,7 @@ import PomPage.LoginPage;
 
 public class TestValidLogin extends BaseTest{
 	
-	@Test(invocationCount=2)
+	@Test()
 	public void validLogin() throws InterruptedException
 	{
 		Logger log = LogManager.getLogger(TestValidLogin.class.getName());

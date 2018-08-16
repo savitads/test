@@ -16,6 +16,8 @@ public class HomePage {
 	@FindBy(xpath = "//*[text()='actiTIME 2017.4']")
 	WebElement version;
 	
+	@FindBy(xpath = "//div[text()='USERS']")
+	WebElement userTab;
 
 	//initialize the elements
 	public HomePage(WebDriver driver)
@@ -32,6 +34,10 @@ public class HomePage {
 	}
 	public String getVersion() {
 		return version.getText();
+	}
+	public void clickUser()
+	{
+		userTab.click();
 	}
 	
 
