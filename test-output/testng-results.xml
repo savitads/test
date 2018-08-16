@@ -2,6 +2,7 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
+<<<<<<< HEAD
   <suite name="Default suite" duration-ms="40156" started-at="2018-08-16T17:35:58Z" finished-at="2018-08-16T17:36:38Z">
     <groups>
     </groups>
@@ -20,13 +21,37 @@
             <param index="0">
               <value>
                 <![CDATA[[TestResult name=validLogin status=SUCCESS method=UserCreation.validLogin()[pri:0, instance:Scripts.UserCreation@c81cdd1] output={null}]]]>
+=======
+  <suite name="Default suite" duration-ms="31340" started-at="2018-08-15T14:47:56Z" finished-at="2018-08-15T14:48:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31340" started-at="2018-08-15T14:47:56Z" finished-at="2018-08-15T14:48:27Z">
+      <class name="Scripts.TestValidLogin">
+        <test-method status="PASS" signature="lunchApplication()[pri:0, instance:Scripts.TestValidLogin@43738a82]" name="lunchApplication" is-config="true" duration-ms="19103" started-at="2018-08-15T14:47:56Z" finished-at="2018-08-15T14:48:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchApplication -->
+        <test-method status="PASS" signature="validLogin()[pri:0, instance:Scripts.TestValidLogin@43738a82]" name="validLogin" duration-ms="9832" started-at="2018-08-15T14:48:15Z" finished-at="2018-08-15T14:48:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method status="PASS" signature="closeApplication(org.testng.ITestResult)[pri:0, instance:Scripts.TestValidLogin@43738a82]" name="closeApplication" is-config="true" duration-ms="2340" started-at="2018-08-15T14:48:25Z" finished-at="2018-08-15T14:48:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validLogin status=SUCCESS method=TestValidLogin.validLogin()[pri:0, instance:Scripts.TestValidLogin@43738a82] output={null}]]]>
+>>>>>>> d85faf65aaa3c1218f08ce6af02fa605e2f2a1bc
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApplication -->
+<<<<<<< HEAD
       </class> <!-- Scripts.UserCreation -->
+=======
+      </class> <!-- Scripts.TestValidLogin -->
+>>>>>>> d85faf65aaa3c1218f08ce6af02fa605e2f2a1bc
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
